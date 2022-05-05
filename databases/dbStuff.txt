@@ -1,0 +1,18 @@
+pteIndex.db
+
+pteType
+
+
+00 : Data1:
+00 : Data2:
+01 : Biography:
+02 : Production:
+03 : Glossary:
+04 : Compounds:
+05 : Reactions:
+06 : Equation:
+07 : Country:
+08 : Spectrum:
+09 : Isotope:
+10 : Allotrope:
+11 : OnThisDay:
