@@ -1,0 +1,26 @@
+The Periodic Table Explorer is split in to five sections;
+
+[ Home ]
+By default the elements are listed in alphabetical order. The buttons on the top toolbar allow you to toggle the list by Name, Atomic Number and pressing '...' gives you access to Boiling point, Melting point, Discovery date, Electronegativity (Pauling) and Atomc Volume.
+
+Selecting an element will cause its details to be displayed on the 'Data' and 'Images' tab the next time you access them.
+
+[ Data ]
+The main information browser. Select from different types of information via the buttons on the top toolbar;
+
+Main data, physical properties, reactions and production/isolation.
+
+Click the "More" button for access to Atomic Reference, Compounds, Isotopes, Mass Attenuation Data and Spectra.
+
+Clicking a hyperlink on any page will can take you to biographies (cyan), element pages (green), glossary (blue) and country (red). The Data page knows which element is currently being displayed so clicking a link to Lithium and then selecting Spectra from the "More..." menu will open the Spectra page for Lithium.
+
+[ Images ]
+Images for the seleted element. Cycle through the elements by using the up and down arrows.
+
+[ Reference ]
+Quick access to biographies, glossary and country production data.
+
+[ Toolbar ]
+Find compounds, equations, physical and natural constants and search through all of the Periodic Table Explorer's 1400+ pages of content.
+
+Calculate the molecular weight of any compound.

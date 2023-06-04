@@ -1,0 +1,67 @@
+.H2 {font-family: SFProRounded-Regular; font-size:12pt; color:#000000; font-weight:bold;}
+.H1 {font-family: SFProRounded-Regular; font-size:10pt; color:#000000; font-weight:bold;}
+.JF {font-family: SFProRounded-Regular; font-size:10pt; color:#000000;}
+.JZ {font-family: SFProRounded-Regular; font-size:8pt; color:#888888;}
+.JX {font-family: SFProRounded-Regular; font-size:8pt; color:#666666;}
+.PF {font-family: SFProRounded-Regular; font-size:8pt; color:#000000;}
+
+A.blink:link {color:#006666; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.blink:visited {color:#006666; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.blink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.blink:active {color:#006666; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.wlink:link {color:#660066; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.wlink:visited {color:#660066; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.wlink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.wlink:active {color:#660066; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.elink:link {color:#006600; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.elink:visited {color:#006600; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.elink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.elink:active {color:#006600; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.glink:link {color:#000066; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.glink:visited {color:#000066; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.glink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.glink:active {color:#000066; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.slink:link {color:#660000; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.slink:visited {color:#660000; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.slink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.slink:active {color:#660000; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A:link {color:#000000; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A:visited {color:#000000; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.small:link {font-family: SFProRounded-Regular; font-size:8pt; color:#666666; text-decoration: none}
+A.small:active {font-family: SFProRounded-Regular; font-size:8pt; color:#666666; text-decoration: none}
+A.small:visited {font-family: SFProRounded-Regular; font-size:8pt; color:#666666; text-decoration: none}
+A.small:hover {font-family: SFProRounded-Regular; font-size:8pt; color:#000066; text-decoration: underline}
+
+A.plink:link {color:#660066; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.plink:visited {color:#660066; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.plink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.plink:active {color:#660066; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.clink:link {color:#666666; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.clink:visited {color:#666666; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.clink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.clink:active {color:#666666; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.rlink:link {color:#663300; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.rlink:visited {color:#663300; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.rlink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.rlink:active {color:#663300; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.qlink:link {color:#663300; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.qlink:visited {color:#663300; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.qlink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.qlink:active {color:#663300; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.ulink:link {color:#660033; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.ulink:visited {color:#660033; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.ulink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.ulink:active {color:#660033; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.ilink:link {color:#663333; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.ilink:visited {color:#663333; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.ilink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.ilink:active {color:#663333; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.alink:link {color:#66FF33; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.alink:visited {color:#66FF33; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.alink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.alink:active {color:#66FF33; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.olink:link {color:#6633FF; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.olink:visited {color:#6633FF; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}
+A.olink:hover {color:#FF0000; text-decoration: underline; font-size:10pt; font-family: SFProRounded-Regular;}
+A.olink:active {color:#6633FF; text-decoration: none; font-size:10pt; font-family: SFProRounded-Regular;}

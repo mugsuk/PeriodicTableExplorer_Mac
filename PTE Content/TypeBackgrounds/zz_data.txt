@@ -1,0 +1,3 @@
+Font
+
+For @2x: Tahoma, Regular, 34pt, #000000
