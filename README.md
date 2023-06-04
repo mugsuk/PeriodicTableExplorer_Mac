@@ -5,11 +5,11 @@ Forked from MaximumOctopus https://github.com/MaximumOctopus/PeriodicTableExplor
 
 **IMPORTANT:**
 There are 3 .ccs files in which I have chaned the font from 'Verdana' to 'SFProRounded-Regular'
-the files are:
+the files are:  
 **element.css  
 index.css  
 paf.css**  
 
-Open each of those files in the text editor of your choice and change the font to whatever is to your liking if the build is failing because you don not have the font 'SFProRounded-Regular' on your system
+Open each of those files in the text editor of your choice and change the font to whatever is to your liking if the build is failing because you do not have the font 'SFProRounded-Regular' on your system
 
 Feel free to mail me if you are having any issues
